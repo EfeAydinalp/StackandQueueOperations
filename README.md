@@ -15,9 +15,9 @@ This project implements several operations on custom stack and queue data struct
    ```bash
    javac *.java
    ```
-1. **Run your program:** 
+2. **Run your program:** 
    ```bash
    java Main command.txt
    ```
-1. **Control your output.** 
+3. **Control your output.** 
    
